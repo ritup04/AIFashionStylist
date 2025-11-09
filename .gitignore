@@ -1,0 +1,59 @@
+# ===============================
+# AI Fashion Stylist Project
+# ===============================
+
+# --- Dataset ---
+DeepFashion2/
+data_subset/
+*.zip
+*.tar
+*.tar.gz
+
+# --- Models and Checkpoints ---
+*.pth
+*.pt
+*.h5
+*.pkl
+*.joblib
+*.faiss
+
+# --- Virtual Environment ---
+venv/
+env/
+ENV/
+.venv/
+.Scripts/
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# --- IDE / Editor Files ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Streamlit Cache ---
+.streamlit/
+cache/
+logs/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.ipynb_checkpoints
+
+# --- Temporary / Misc Files ---
+*.log
+*.bak
+*.tmp
+*.swp
+*.orig

@@ -141,7 +141,7 @@ streamlit run demo_app.py
 📧 ritupal1626@gmail.com  
 💼 [GitHub: ritup04](https://github.com/ritup04)
 
-👩‍💻 **Vaishnavi A Sonawane**  
+👩‍💻 **Helly Khambhatwala**  
 🎓 B.Tech CSE (AI-ML), Adani University  
 📧 helly9328@gmail.com  
 💼 [GitHub: helly1408](https://github.com/helly1408)

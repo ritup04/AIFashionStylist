@@ -145,17 +145,3 @@ streamlit run demo_app.py
 🎓 B.Tech CSE (AI-ML), Adani University  
 📧 helly9328@gmail.com  
 💼 [GitHub: helly1408](https://github.com/helly1408)
-
----
-
-## ⭐ Acknowledgements
-
-- [DeepFashion2 Dataset on Kaggle](https://www.kaggle.com/datasets/thusharanair/deepfashion2-original-with-dataframes)  
-- [OpenAI CLIP](https://github.com/openai/CLIP)  
-- [FAISS by Meta AI](https://github.com/facebookresearch/faiss)  
-- [Streamlit](https://streamlit.io)
-
----
-
-> 💬 *“Style is a way to say who you are without having to speak.”*  
-> — *Rachel Zoe*
